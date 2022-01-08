@@ -1,6 +1,10 @@
 <html>
 <head>
+<<<<<<< HEAD
 <title>Change passwordkjjsdhgf 123456</title>
+=======
+<title>Change password 123456 delete me</title>
+>>>>>>> 88fd7e63ebca7a0fcc694d68d5aac0258f548171
 <link rel="stylesheet" href="css/main.css">
 <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500' rel='stylesheet' type='text/css'>
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
