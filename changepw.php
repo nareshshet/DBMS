@@ -67,6 +67,6 @@ else
 echo "<script type='text/javascript'>alert('Incorrect password');</script>";
 }
 else
-echo "<script type='text/javascript'>alert('User does not exist');</script>";
+echo "<script type='text/javascript'>alert('User does not exist!!!..................');</script>";
 }
 ?>
